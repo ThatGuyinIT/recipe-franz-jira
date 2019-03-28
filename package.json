@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "ThatGuyInIT@Github",
   "license": "MIT",
-  "repository": "https://github.com/meetfranz/",
+  "repository": "https://github.com/ThatGuyinIT/recipe-franz-jira/",
   "config": {	
     "serviceURL": "https://{teamId}.atlassian.net",
     "hasNotificationSound": false,
