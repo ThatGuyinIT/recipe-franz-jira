@@ -1,0 +1,18 @@
+{
+  "id": "jira",
+  "name": "Jira",
+  "version": "1.0.0",
+  "description": "Jira",
+  "main": "index.js",
+  "author": "ThatGuyInIT@Github",
+  "license": "MIT",
+  "repository": "https://github.com/meetfranz/",
+  "config": {	
+    "serviceURL": "https://{teamId}.atlassian.net",
+    "hasNotificationSound": false,
+    "hasDirectMessages": false,
+    "hasIndirectMessages": false,
+    "hasTeamId": true,
+    "urlInputSuffix": "<team>.atlassian.net"
+  }
+}
